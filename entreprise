@@ -15,3 +15,4 @@ ipconfig /release = libère l’adresse ip actuelle
 
 netsh interface ip set dns «Ethernet» dhcp = cette commande permet de
 configurer en mode DHCP l’adresse IPv4 d’un serveur DNS.
+gdg-nk_
