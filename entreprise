@@ -1,6 +1,5 @@
-firewall.cpl ==>On peut acceder au firewall avec la recherche firewall.cpl. Par la suite on doit cliquer
-sur parametre avance ou on pourrait trouver les regles qui interdisent ou pas qu une
-connexion reseau se fasse.
+firewall.cpl ==>On peut acceder au firewall avec la recherche firewall.cpl. 
+Par la suite on doit cliquer sur parametre avance ou on pourrait trouver les regles qui interdisent ou pas qu une connexion reseau se fasse.
 
 netsh interface show interface = on peut voir le nom et le statut de notre
 interface réseau
