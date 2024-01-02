@@ -15,4 +15,7 @@ ipconfig /release = libère l’adresse ip actuelle
 
 netsh interface ip set dns «Ethernet» dhcp = cette commande permet de
 configurer en mode DHCP l’adresse IPv4 d’un serveur DNS.
-gdg-nk_
+ipconfig /flushdns = Efface le cache DNS local
+netstat =Affiche les connexions réseau actives, les ports ouverts et d'autres informations réseau
+tracert = Affiche le chemin pris par les paquets pour atteindre une destination spécifiée.
+ping = Envoie un paquet de test à une adresse IP spécifiée pour vérifier la connectivité réseau.
