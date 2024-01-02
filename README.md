@@ -13,7 +13,7 @@ ipconfig /renew = demande une nouvelle adresse IP au serveur DHCP
 
 ipconfig /release = libère l’adresse ip actuelle
 
-netsh interface ip set dns «Ethernet» dhcp = cette commande permet de configurer en mode DHCP l’adresse IPv4 d’un serveur DNS.
+netsh interface ip set dns «Ethernet» dhcp = cette commande permet de configurer en mode DHCP l’adresse IPv4 d’un serveur DNS.<br>
 netsh interface ip delete address "Ethernet" «IPV4» = cette commande permet de supprimer une IPV4 sur la carte Ethernet
 
 ipconfig /flushdns = Efface le cache DNS local
