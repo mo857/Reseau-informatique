@@ -25,3 +25,4 @@
 | apt-get install network-manager | permet d’installer Network Manager qui gèrera alors les interfaces et leurs configurations |
 | systemctl enable NetworkManager | permet de laisser Network Manager tout le temps actif, même au redémarrage) |
 | dpkg-reconfigure keyboard-configuration | mettre leclavier en clavier Belge. |
+| - su - | se mettre en mode super utilisateur (mode root) |
