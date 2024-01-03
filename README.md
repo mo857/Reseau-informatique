@@ -21,11 +21,7 @@
 | Commande        | Description      |
 | ------|-----|
 | apt-get update | mettre à jour les paquets |
-|apt-get install resolvconf | permet d’installer le paquet resolvconf (qui nous
-servira pour les commandes réseaux) |
-| apt-get install network-manager | permet d’installer Network Manager qui
-gèrera alors les interfaces et leurs configurations |
-| systemctl enable NetworkManager | permet de laisser Network Manager tout
-le temps actif, même au redémarrage) |
-| dpkg-reconfigure keyboard-configuration | mettre le
-clavier en clavier Belge. |
+|apt-get install resolvconf | permet d’installer le paquet resolvconf (qui nousservira pour les commandes réseaux) |
+| apt-get install network-manager | permet d’installer Network Manager qui gèrera alors les interfaces et leurs configurations |
+| systemctl enable NetworkManager | permet de laisser Network Manager tout le temps actif, même au redémarrage) |
+| dpkg-reconfigure keyboard-configuration | mettre leclavier en clavier Belge. |
