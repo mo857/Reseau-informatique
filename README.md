@@ -1,9 +1,9 @@
-##Commande sous windows 
+## Commande sous windows 
 | Commande        | Description      |
 | ------|-----|
 | firewall.cpl | On peut acceder au paramètre du firewall, Par la suite on doit cliquer sur parametre avance ou on pourrait trouver les regles qui interdisent ou pas qu une connexion reseau se fasse.|
 
-##Commande réseau sous windows
+## Commande réseau sous windows
 | Commande        | Description      |
 | ------|-----|
 | netsh interface show interface | On peut voir le nom et le statut de notre interface réseau |
@@ -17,7 +17,7 @@
 | tracert | Affiche le chemin pris par les paquets pour atteindre une destination spécifiée |
 | ping | Envoie un paquet de test à une adresse IP spécifiée pour vérifier la connectivité réseau |
 
-##Commande réseau sous Linux
+## Commande réseau sous Linux
 | Commande        | Description      |
 | ------|-----|
 | apt-get update | mettre à jour les paquets |
