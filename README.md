@@ -29,3 +29,6 @@
 |  ip addr show | cette commande nous permet de voir les cartes de notre serveur et également les adresses IP ( ip -6 addr show pour l’IPv6) |
 | ip link show | vous montre votre adresse MAC et tout le niveau deux de votre carte |
 | ip route show | vous montre les routes configurées sur le serveur et donc aussi celui du default gateway |
+| hostnamectl | nous montre d’autres informations dont le nom d’utilisateur actuelle |
+|ip addr flush dev enp0s3 | permet de supprimer toutes les configurations d’adresse IPv4 sur l’interface|
+|  ip -6 addr flushdev enp0s | permet de supprimer toutes les configurations d’adresse IPv6 sur l’interface |
