@@ -1,7 +1,7 @@
 # Différente Commandes pour paramétrer le réseau sous diférents systèmes d'exploitations. 
 
-Bonjour, bienvenue sur cette page de différentes commande utile sous différents systèmes d'exploitations.
-
+Bonjour, bienvenue sur cette page de différentes commande utile sous différents systèmes d'exploitations.<br>
+c'est une genre de mini synthèse pour des commandes utilses en ligne de commande pour diverse paramétrage réseau.
 *******
 Table des matières  
  1. [Différente commande sous windows](#Commande-sous-windows)
