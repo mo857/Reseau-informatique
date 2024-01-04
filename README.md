@@ -52,3 +52,7 @@ Table des matières
 | hostnamectl | nous montre d’autres informations dont le nom d’utilisateur actuelle |
 |ip addr flush dev enp0s3 | permet de supprimer toutes les configurations d’adresse IPv4 sur l’interface|
 |  ip -6 addr flushdev enp0s | permet de supprimer toutes les configurations d’adresse IPv6 sur l’interface |
+| pkill dhclient | permet de (tuer) d’arrêter tous les processus en cours d’exécution associés au programme dhclient |
+|  ip route del default |upprime le default gateway (si on ajoute un -6 après ip ça sera pour l’IPv6) 
+| nslookup | permet de voir les adresses DNS et les domaines qui y sont liés (il faut installer dnsutils  |
+
