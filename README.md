@@ -1,8 +1,20 @@
+*******
+Table des matières  
+ 1. [Qu'est-ce que le Markdown ?](#Commande-sous-windows)
+ 2. [Pourquoi utiliser le Markdown?](#Commande-reseau-sous-windows)
+ 3. [Outils pour le Markdown](#Commande-reseau-sous-linux)
+
+
+*******
+
+
+<div id='Commande-sous-windows'/> 
 ## Commande sous windows 
 | Commande        | Description      |
 | ------|-----|
 | firewall.cpl | On peut acceder au paramètre du firewall, Par la suite on doit cliquer sur parametre avance ou on pourrait trouver les regles qui interdisent ou pas qu une connexion reseau se fasse.|
 
+<div id='Commande-reseau-sous-windows'/> 
 ## Commande réseau sous windows
 | Commande        | Description      |
 | ------|-----|
@@ -16,7 +28,8 @@
 | netstat | Affiche les connexions réseau actives, les ports ouverts et d'autres informations réseau |
 | tracert | Affiche le chemin pris par les paquets pour atteindre une destination spécifiée |
 | ping | Envoie un paquet de test à une adresse IP spécifiée pour vérifier la connectivité réseau |
-
+  
+<div id='Commande-reseau-sous-linux'/> 
 ## Commande réseau sous Linux
 | Commande        | Description      |
 | ------|-----|
