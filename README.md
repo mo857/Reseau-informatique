@@ -1,4 +1,4 @@
-# différente Commandes pour paramétrer le réseau sous diférents systèmes d'exploitations. 
+# Différente Commandes pour paramétrer le réseau sous diférents systèmes d'exploitations. 
 
 Bonjour, bienvenue sur cette page de différentes commande utile sous différents systèmes d'exploitations.
 
@@ -14,12 +14,14 @@ Table des matières
 
 <div id='Commande-sous-windows'/> 
 ## Commande sous windows 
+
 | Commande        | Description      |
 | ------|-----|
 | firewall.cpl | On peut acceder au paramètre du firewall, Par la suite on doit cliquer sur parametre avance ou on pourrait trouver les regles qui interdisent ou pas qu une connexion reseau se fasse.|
 
 <div id='Commande-reseau-sous-windows'/> 
 ## Commande réseau sous windows
+ 
 | Commande        | Description      |
 | ------|-----|
 | netsh interface show interface | On peut voir le nom et le statut de notre interface réseau |
@@ -35,6 +37,7 @@ Table des matières
   
 <div id='Commande-reseau-sous-linux'/> 
 ## Commande réseau sous Linux
+ 
 | Commande        | Description      |
 | ------|-----|
 | apt-get update | mettre à jour les paquets |
