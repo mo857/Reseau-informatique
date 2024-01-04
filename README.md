@@ -26,3 +26,6 @@
 | systemctl enable NetworkManager | permet de laisser Network Manager tout le temps actif, même au redémarrage) |
 | dpkg-reconfigure keyboard-configuration | mettre leclavier en clavier Belge. |
 | - su - | se mettre en mode super utilisateur (mode root) |
+|  ip addr show | cette commande nous permet de voir les cartes de notre serveur et également les adresses IP ( ip -6 addr show pour l’IPv6) |
+| ip link show | vous montre votre adresse MAC et tout le niveau deux de votre carte |
+| ip route show | vous montre les routes configurées sur le serveur et donc aussi celui du default gateway |
