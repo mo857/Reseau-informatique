@@ -1,8 +1,12 @@
+# différente Commandes pour paramétrer le réseau sous diférents systèmes d'exploitations. 
+
+Bonjour, bienvenue sur cette page de différentes commande utile sous différents systèmes d'exploitations.
+
 *******
 Table des matières  
- 1. [Qu'est-ce que le Markdown ?](#Commande-sous-windows)
- 2. [Pourquoi utiliser le Markdown?](#Commande-reseau-sous-windows)
- 3. [Outils pour le Markdown](#Commande-reseau-sous-linux)
+ 1. [Différente commande sous windows](#Commande-sous-windows)
+ 2. [Différente commande réseau sous windows](#Commande-reseau-sous-windows)
+ 3. [Différente commande réseau sous linux](#Commande-reseau-sous-linux)
 
 
 *******
