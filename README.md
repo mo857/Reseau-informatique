@@ -55,4 +55,4 @@ Table des matières
 | pkill dhclient | permet de (tuer) d’arrêter tous les processus en cours d’exécution associés au programme dhclient |
 |  ip route del default |upprime le default gateway (si on ajoute un -6 après ip ça sera pour l’IPv6) 
 | nslookup | permet de voir les adresses DNS et les domaines qui y sont liés (il faut installer dnsutils  |
-
+| ip link set dev enp0s3 address | permet de changer l’adresse MAC sur une interface |
