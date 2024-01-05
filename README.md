@@ -64,3 +64,13 @@ Table des matières
 | ip route del default |upprime le default gateway (si on ajoute un -6 après ip ça sera pour l’IPv6) 
 | nslookup | permet de voir les adresses DNS et les domaines qui y sont liés (il faut installer dnsutils  |
 | ip link set dev enp0s3 address | permet de changer l’adresse MAC sur une interface |
+
+<div id='Commande Organisation et structure des données'/> 
+
+## Commande Organisation et structure des données
+| Commande        | Description      |
+| ------|-----|
+| NOT NULL | obligatoire, donc l’inverse qui est NULL veut dire que ce n’est pas obligatoire, donc facultatif |
+|  CREATE TABLE | comme son nom l’indique crée une table |
+|  ALTER | pour modifier un objet, dans notre cas on veut modifier la table donc on utilise la commande ALTER TABLE ensuite on spécifie la table |
+| ADD COLUM |  une commande qui ajoute une colonne |
