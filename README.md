@@ -8,7 +8,7 @@ Table des matières
  2. [Différente commande réseau sous windows](#Commande-reseau-sous-windows)
  3. [Différente commande sous linux](#Commande-sous-linux)
  4. [Différente commande réseau sous linux](#Commande-reseau-sous-linux)
- 5. [Commande Organisation et structure des données](#Commande Organisation et structure des données)
+ 5. [Commande Organisation et structure des données](#Commande-Organisation-et-structure-des-données)
 
 
 *******
@@ -75,3 +75,10 @@ Table des matières
 |  CREATE TABLE | comme son nom l’indique crée une table |
 |  ALTER | pour modifier un objet, dans notre cas on veut modifier la table donc on utilise la commande ALTER TABLE ensuite on spécifie la table |
 | ADD COLUM |  une commande qui ajoute une colonne |
+| DROP TABLE nom_de_la_table | la commande supprimer la table |
+| DROP COLUMN | On peut supprimer une colonne avec la commande |
+| INSERT INTO nom_de_la_table (colonne1, colonne2, etc...) | On peut insérer des valeurs dans notre table, avec cette commande |
+| DELETE FROM nom_de_la_table | supprimer le contenue d’une table |
+| TRUNCATE TABLE | On peut supprimer le contenu d’une table avec la commande (donc on garde la structure)  |
+
+
