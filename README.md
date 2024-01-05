@@ -79,6 +79,7 @@ Table des matières
 | DROP COLUMN | On peut supprimer une colonne avec la commande |
 | INSERT INTO nom_de_la_table (colonne1, colonne2, etc...) | On peut insérer des valeurs dans notre table, avec cette commande |
 | DELETE FROM nom_de_la_table | supprimer le contenue d’une table |
-| TRUNCATE TABLE | On peut supprimer le contenu d’une table avec la commande (donc on garde la structure)  |
+| TRUNCATE TABLE | On peut supprimer le contenu d’une table avec la commande (donc on garde la structure) |
+| LOWER | Mettre en minuscule tout ce qui se trouve entre parenthèse |
 
 
